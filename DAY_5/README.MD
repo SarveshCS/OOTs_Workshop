@@ -29,6 +29,33 @@ MyFunction add = (a, b) -> a + b;
 
 This day is focused on understanding how Java supports functional programming through functional interfaces and lambda expressions. You will learn by reading, running, and experimenting with the following examples:
 
+---
+
+## Lambda Return: Implicit vs Explicit
+
+In Java, lambda expressions can return a value in two ways:
+
+**Implicit Return (Expression Lambda):**
+```java
+(a) -> a * a // No braces, no 'return' keyword needed
+```
+This is called an implicit return. The result of the expression after `->` is returned automatically. No braces `{}` or `return` keyword are required.
+
+**Explicit Return (Block Lambda):**
+```java
+(a) -> { return a * a; }
+```
+Here, braces `{}` are used, and you must explicitly use the `return` keyword and a semicolon.
+
+### Which is better?
+For single-expression lambdas, implicit return is preferred and recommended by Java style guides. It is more concise and readable. Use block lambdas only when you need multiple statements inside the lambda body.
+
+**Summary:**
+- Use implicit return for simple, single-expression lambdas.
+- Use block lambda with `return` only if you need multiple statements.
+
+---
+
 - [`FunctionalInterfaceDemo.java`](FunctionalInterfaceDemo.java): Learn how to define your own functional interface and use lambda expressions for basic math operations. Try changing the lambda to perform other operations!
 - [`LambdaExample.java`](LambdaExample.java): See how lambdas can simplify code, such as implementing a Runnable for threads. Try making your own Runnable with a different message.
 - [`PredicateDemo.java`](PredicateDemo.java): Discover Java's built-in functional interfaces like Predicate, and use lambdas to test conditions. Try writing your own Predicate for numbers or other types.

@@ -6,13 +6,13 @@ Welcome to your first day of Java! Today, you'll learn about the basics of Java 
 ## Teacher's Instructions & Topic Guide
 
 1. **What is Encapsulation?**
-	- Encapsulation means wrapping data (variables) and code (methods) together into a single unit called a class.
-	- It helps keep your data safe from outside interference and misuse.
-	- Example: Think of a class as a capsule that contains both the medicine (data) and instructions (methods) for using it.
+    - Encapsulation means wrapping data (variables) and code (methods) together into a single unit called a class.
+    - It helps keep your data safe from outside interference and misuse.
+    - Example: Think of a class as a capsule that contains both the medicine (data) and instructions (methods) for using it.
 
 2. **Java Basics**
-	- Learn how to write your first Java program, take user input, and work with variables and arrays.
-	- Practice by running and modifying the example files below.
+    - Learn how to write your first Java program, take user input, and work with variables and arrays.
+    - Practice by running and modifying the example files below.
 
 ## Learning Path & Example Files
 

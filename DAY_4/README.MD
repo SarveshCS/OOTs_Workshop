@@ -5,16 +5,22 @@ Today, you'll learn about inheritance, method overloading, method overriding, an
 
 ## Teacher's Instructions & Topic Guide
 
+    - Inheritance allows one class to acquire the properties and behaviors of another. Use it to avoid code duplication and promote reuse.
+    - Constructors can be inherited and called using `super`. See how child classes initialize parent class members.
+    - Overloading means having multiple methods with the same name but different parameters. It helps make your code more readable and flexible.
+    - Overriding lets you change the behavior of a parent class method in a child class. Use `@Override` to indicate this.
+    - `this` refers to the current object. Use it to distinguish between instance variables and parameters, or to call other constructors.
+
 1. **Inheritance**
-	- Inheritance allows one class to acquire the properties and behaviors of another. Use it to avoid code duplication and promote reuse.
+   - Inheritance allows one class to acquire the properties and behaviors of another. Use it to avoid code duplication and promote reuse.
 2. **Constructor Inheritance**
-	- Constructors can be inherited and called using `super`. See how child classes initialize parent class members.
+   - Constructors can be inherited and called using `super`. See how child classes initialize parent class members.
 3. **Method Overloading**
-	- Overloading means having multiple methods with the same name but different parameters. It helps make your code more readable and flexible.
+   - Overloading means having multiple methods with the same name but different parameters. It helps make your code more readable and flexible.
 4. **Method Overriding**
-	- Overriding lets you change the behavior of a parent class method in a child class. Use `@Override` to indicate this.
+   - Overriding lets you change the behavior of a parent class method in a child class. Use `@Override` to indicate this.
 5. **`this` Keyword**
-	- `this` refers to the current object. Use it to distinguish between instance variables and parameters, or to call other constructors.
+   - `this` refers to the current object. Use it to distinguish between instance variables and parameters, or to call other constructors.
 
 ## Learning Path & Example Files
 
@@ -28,10 +34,8 @@ Today, you'll learn about inheritance, method overloading, method overriding, an
 
 Open any `.java` file and run using:
 
-```sh
-javac FileName.java
-java FileName
-```
+    javac FileName.java
+    java FileName
 
 ## Key Concepts
 

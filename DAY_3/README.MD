@@ -1,5 +1,3 @@
-
-
 # DAY 3: Abstract Classes, Interfaces & Inheritance
 
 Today, you'll dive deeper into object-oriented programming by learning about abstract classes, interfaces, multiple inheritance, and the use of `this` and `super` keywords. These concepts help you build flexible and reusable code.
@@ -7,13 +5,13 @@ Today, you'll dive deeper into object-oriented programming by learning about abs
 ## Teacher's Instructions & Topic Guide
 
 1. **Abstract Classes**
-	- Abstract classes allow you to define methods that must be implemented by subclasses, as well as methods with default behavior.
+    - Abstract classes allow you to define methods that must be implemented by subclasses, as well as methods with default behavior.
 2. **Interfaces**
-	- Interfaces define a contract for classes. A class can implement multiple interfaces, enabling multiple inheritance of type.
+    - Interfaces define a contract for classes. A class can implement multiple interfaces, enabling multiple inheritance of type.
 3. **Multiple Inheritance (via Interfaces)**
-	- Java does not support multiple inheritance for classes, but you can achieve it using interfaces.
+    - Java does not support multiple inheritance for classes, but you can achieve it using interfaces.
 4. **`this` and `super` Keywords**
-	- `this` refers to the current object, while `super` refers to the parent class. Use them to access variables and methods.
+    - `this` refers to the current object, while `super` refers to the parent class. Use them to access variables and methods.
 
 ## Learning Path & Example Files
 

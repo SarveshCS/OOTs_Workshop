@@ -6,12 +6,12 @@ Today, you'll learn about Java's default values, command-line arguments, and the
 ## Teacher's Instructions & Topic Guide
 
 1. **Default Values**
-	- Every variable in Java has a default value if not initialized. See how different types behave in the examples.
+    - Every variable in Java has a default value if not initialized. See how different types behave in the examples.
 2. **Command-line Arguments**
-	- Java programs can accept input from the command line. Practice passing arguments and using them in your code.
+    - Java programs can accept input from the command line. Practice passing arguments and using them in your code.
 3. **Abstract Classes**
-	- Abstract classes can have both abstract (no body) and non-abstract methods. You cannot create objects of abstract classes directly; you must inherit them.
-	- Use the examples to see how abstract classes are implemented and extended.
+    - Abstract classes can have both abstract (no body) and non-abstract methods. You cannot create objects of abstract classes directly; you must inherit them.
+    - Use the examples to see how abstract classes are implemented and extended.
 
 ## Learning Path & Example Files
 

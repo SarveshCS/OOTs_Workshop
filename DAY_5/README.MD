@@ -25,7 +25,6 @@ Example:
 MyFunction add = (a, b) -> a + b;
 ```
 
-
 ## Contents & Learning Path
 
 This day is focused on understanding how Java supports functional programming through functional interfaces and lambda expressions. You will learn by reading, running, and experimenting with the following examples:
@@ -42,7 +41,7 @@ This day is focused on understanding how Java supports functional programming th
 3. **Built-in Functional Interfaces**: Introduce Java's standard library interfaces like Predicate, Consumer, Supplier, etc. Use PredicateDemo to illustrate.
 4. **Practical Example (Calculator)**: Guide students to see how lambdas can be used in real applications, like a calculator. Encourage them to extend the example with more operations or error handling.
 
-## How to Run
+## How to Run & Key Concepts
 
 Open any `.java` file and run using:
 
@@ -51,7 +50,7 @@ javac FileName.java
 java FileName
 ```
 
-## Key Concepts
+### Key Concepts
 
 - Functional Interfaces
 - Lambda Expressions
@@ -71,7 +70,7 @@ javac FileName.java
 java FileName
 ```
 
-## Key Concepts
+### Key Concepts (Lambda)
 
 - Functional Interfaces
 - Lambda Expressions

@@ -10,6 +10,6 @@ public class LambdaMethodParam {
 
     public static void main(String[] args) {
         printTransformed("hello", str -> str.toUpperCase());
-        printTransformed("world", String::toLowerCase);
+        printTransformed("World", String::toLowerCase);
     }
 }

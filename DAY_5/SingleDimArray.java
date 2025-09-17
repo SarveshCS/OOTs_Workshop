@@ -5,7 +5,7 @@ public class SingleDimArray {
             System.out.print(arr[i] + " ");
         }
         System.out.println();
-        String[] cities = {"Delhi", "Mumbai", "Chennai", "Kolkata"};
+        String[] cities = {"Delhi", "Mumbaii", "Chennai", "Kolkata"};
         for(String c : cities) {
             System.out.print(c + " ");
         }

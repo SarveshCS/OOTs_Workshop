@@ -5,9 +5,9 @@ public class TwoDimArray {
             {4, 5, 6},
             {7, 8, 9}
         };
-        for(int i = 0; i < mat.length; i++) {
-            for(int j = 0; j < mat[i].length; j++) {
-                System.out.print(mat[i][j] + " ");
+        for(int[] row : mat) {
+            for(int val : row) {
+                System.out.print(val + " ");
             }
             System.out.println();
         }

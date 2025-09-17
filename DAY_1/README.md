@@ -18,9 +18,8 @@ Welcome to your first day of Java! Today, you'll learn about the basics of Java 
 
 Explore the following files in the `Basics/` folder:
 
-- [`HelloWorld.java`](Basics/HelloWorld.java): Take user input and print it. Try changing the prompt or output!
-- [`Main.java`](Basics/Main.java): See how to declare variables and use arrays. Experiment with different values.
-- [`program_1.java`](Basics/program_1.java): Another example of input/output. Try adding more questions for the user.
+
+
 
 ## How to Run
 
@@ -33,9 +32,7 @@ java FileName
 
 ## Key Concepts
 
-- Encapsulation
-- Input/Output
-- Variables and Arrays
+
 
 ---
 

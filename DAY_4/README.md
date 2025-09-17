@@ -24,11 +24,7 @@ Today, you'll learn about inheritance, method overloading, method overriding, an
 
 ## Learning Path & Example Files
 
-- [`ConsInher.java`](ConsInher.java): Demonstrates constructor inheritance and use of `super`.
-- [`Maruti800.java`](Maruti800.java): Example of class inheritance and method overriding.
-- [`MethodOverload.java`](MethodOverload.java): Shows method overloading with different parameter types.
-- [`MethodOverride.java`](MethodOverride.java): Demonstrates method overriding with multiple classes.
-- [`ThisConst.java`](ThisConst.java): Usage of `this` in constructors and methods.
+
 
 ## How to Run
 
@@ -39,11 +35,6 @@ Open any `.java` file and run using:
 
 ## Key Concepts
 
-- Inheritance
-- Constructor Inheritance
-- Method Overloading
-- Method Overriding
-- Use of `this` keyword
 
 ---
 

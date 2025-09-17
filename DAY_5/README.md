@@ -28,6 +28,16 @@ MyFunction add = (a, b) -> a + b;
 ## Contents & Learning Path
 
 This day is focused on understanding how Java supports functional programming through functional interfaces and lambda expressions. You will learn by reading, running, and experimenting with the following examples:
+## Array and ArrayList Examples
+
+Simple programs to show usage of arrays and ArrayList in Java:
+
+
+- `SingleDimArray.java`: Example of single-dimensional array usage with integers and strings.
+- `TwoDimArray.java`: Example of two-dimensional array usage with integers.
+- `MultiDimArray.java`: Example of multi-dimensional (3D) array usage with integers.
+
+These examples are written in a direct style, similar to previous days, and can be used to understand basic and moderate usages of arrays and ArrayList in Java.
 
 ---
 

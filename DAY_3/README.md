@@ -15,12 +15,7 @@ Today, you'll dive deeper into object-oriented programming by learning about abs
 
 ## Learning Path & Example Files
 
-- [`abstract1.java`](abstract1.java): See how to implement abstract classes and methods.
-- [`InterfaceEx.java`](InterfaceEx.java): Learn how to define and implement interfaces.
-- [`MultipleInher.java`](MultipleInher.java): Practice multiple inheritance using interfaces.
-- [`SuperDemo.java`](SuperDemo.java): Explore the use of `super` to access parent class members.
-- [`ThisMethod.java`](ThisMethod.java): Understand method invocation using `this`.
-- [`ThisRefExample.java`](ThisRefExample.java): See how `this` is used in constructors.
+
 
 ## How to Run
 
@@ -33,10 +28,6 @@ java FileName
 
 ## Key Concepts
 
-- Abstract Classes
-- Interfaces
-- Multiple Inheritance (via Interfaces)
-- `this` and `super` keywords
 
 ---
 

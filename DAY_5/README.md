@@ -33,9 +33,22 @@ This day is focused on understanding how Java supports functional programming th
 Simple programs to show usage of arrays and ArrayList in Java:
 
 
-- `SingleDimArray.java`: Example of single-dimensional array usage with integers and strings.
-- `TwoDimArray.java`: Example of two-dimensional array usage with integers.
-- `MultiDimArray.java`: Example of multi-dimensional (3D) array usage with integers.
+## Jagged (Ragged) Arrays in Java
+
+A jagged (ragged) array is an array of arrays where the inner arrays can have different lengths. This is useful when you need rows of varying sizes, such as representing a table with uneven columns.
+
+Example:
+
+- `JaggedArray.java`: Demonstrates a jagged 2D array where each row has a different number of elements.
+
+```java
+int[][] jaggedArr = new int[3][];
+jaggedArr[0] = new int[] {1, 2};
+jaggedArr[1] = new int[] {3, 4, 5};
+jaggedArr[2] = new int[] {6};
+```
+
+See the file for a complete runnable example.
 
 These examples are written in a direct style, similar to previous days, and can be used to understand basic and moderate usages of arrays and ArrayList in Java.
 

@@ -25,14 +25,42 @@ Example:
 MyFunction add = (a, b) -> a + b;
 ```
 
-## Contents
 
-- [`FunctionalInterfaceDemo.java`](FunctionalInterfaceDemo.java): Demonstrates a custom functional interface and lambda expressions for addition and multiplication.
-- [`LambdaExample.java`](LambdaExample.java): Shows a simple lambda expression using the Runnable interface.
-- [`PredicateDemo.java`](PredicateDemo.java): Uses the built-in `Predicate` functional interface with a lambda.
-- [`Assignment4.java`](Assignment4.java): (Your assignment file, if present)
-- [`Car.java`](Car.java): (Other example file, if present)
-- [`Vehicle.java`](Vehicle.java): (Other example file, if present)
+## Contents & Learning Path
+
+This day is focused on understanding how Java supports functional programming through functional interfaces and lambda expressions. You will learn by reading, running, and experimenting with the following examples:
+
+- [`FunctionalInterfaceDemo.java`](FunctionalInterfaceDemo.java): Learn how to define your own functional interface and use lambda expressions for basic math operations. Try changing the lambda to perform other operations!
+- [`LambdaExample.java`](LambdaExample.java): See how lambdas can simplify code, such as implementing a Runnable for threads. Try making your own Runnable with a different message.
+- [`PredicateDemo.java`](PredicateDemo.java): Discover Java's built-in functional interfaces like Predicate, and use lambdas to test conditions. Try writing your own Predicate for numbers or other types.
+- [`CalC.java`](CalC.java): Build a simple calculator using lambda functions for add, subtract, multiply, and divide. This example shows how you can use lambdas to make your code modular and flexible. Run the program and try different operations!
+
+## Teacher's Instructions & Topic Guide
+
+1. **Functional Interfaces**: Explain that these are interfaces with a single abstract method, and are the foundation for lambda expressions. Use the examples to show how to declare and use them.
+2. **Lambda Expressions**: Show how lambdas provide a concise way to implement functional interfaces. Discuss syntax and use cases.
+3. **Built-in Functional Interfaces**: Introduce Java's standard library interfaces like Predicate, Consumer, Supplier, etc. Use PredicateDemo to illustrate.
+4. **Practical Example (Calculator)**: Guide students to see how lambdas can be used in real applications, like a calculator. Encourage them to extend the example with more operations or error handling.
+
+## How to Run
+
+Open any `.java` file and run using:
+
+```sh
+javac FileName.java
+java FileName
+```
+
+## Key Concepts
+
+- Functional Interfaces
+- Lambda Expressions
+- Built-in Functional Interfaces (`Predicate`, etc.)
+- Real-world usage of lambdas (Calculator)
+
+---
+
+Read the explanations above, then open and run the code files. Try modifying the examples and see how lambda expressions make your code cleaner and more powerful!
 
 ## How to Run
 
